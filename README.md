@@ -4,6 +4,10 @@ In this given zip file there are two codes one is trainer code and one is model 
 ------------------------------------------------------
 CODE AND DATASET ARE PROVIDED IN ZIP FILE
 ------------------------------------------------------
+-----------------------------------------------
+SUMMURY DOC IS ALSO PROVIDED WITH THE OUTPUT
+-----------------------------------------------
+
 ---------------
 Trainer Code:
 ---------------
