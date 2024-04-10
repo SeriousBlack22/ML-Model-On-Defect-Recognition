@@ -1,5 +1,7 @@
 # ML-Model-On-Defect-Recognition
-
+........................................................................................................................................................................................
+Completed the ML Model Based on Civil Engineering Problem of concrete crack detection in Which Model will Recognise the Given Dataset(images) Positive(cracks) and Negative(non-cracks) and based on the trainer and model python code we will get an defect.
+........................................................................................................................................................................................
 In this given zip file there are two codes one is trainer code and one is model code.Trainer code will train the model to recognise the defect from the given dataset.
 ------------------------------------------------------
 CODE AND DATASET ARE PROVIDED IN ZIP FILE
