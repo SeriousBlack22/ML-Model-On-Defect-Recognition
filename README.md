@@ -1,5 +1,7 @@
 # ML-Model-On-Defect-Recognition
 
+In this given zip file there are two codes one is trainer code and one is model code.Trainer code will train the model to recognise the defect from the given dataset.
+
 Trainer Code:
 
 The trainer code is responsible for preparing and training the crack detection model.
